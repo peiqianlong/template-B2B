@@ -1,0 +1,254 @@
+.four_global_footer_108 {
+    background: url(../image/body-bg.png) repeat-x bottom;
+    width: 100%;
+    color: #333;
+    background: #fff;
+    clear: both;
+}
+
+.four_global_footer_108 #footer {
+    clear: both
+}
+
+.four_global_footer_108 #footer .footer_top {
+    text-align: justify
+}
+
+.four_global_footer_108 #footer .footer_top .list_box {
+    display: inline-block;
+    width: 100%
+}
+
+.four_global_footer_108 #footer .footer_top .list {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 30px;
+    width: 17%
+}
+
+.four_global_footer_108 #footer .footer_top .list:nth-child(2) {
+    margin-right: 13px;
+}
+
+.four_global_footer_108 #footer .footer_top .list .title {
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 300;
+    text-transform: capitalize;
+    color: #222328
+}
+
+.four_global_footer_108 #footer .footer_top .list .item {
+    line-height: 28px;
+    text-overflow: ellipsis;
+    display: table-footer-group;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    height: 28px;
+    border: 0px;
+    overflow: hidden;
+}
+
+.four_global_footer_108 #footer .footer_top .list .text-zz {
+    display: block;
+    float: left;
+    height: 30px;
+    padding-top: 3px
+}
+
+.four_global_footer_108 #footer .footer_top .list .comp-tt {
+    font-size: 18px;
+    color: #8C8F94;
+    margin-right: 4px;
+    font-weight: 400
+}
+
+.four_global_footer_108 #footer .footer_top .list .item a {
+    font-size: 14px;
+    color: #8C8F94;
+    text-decoration: none
+}
+
+.four_global_footer_108 #footer .footer_top .list .item:hover {
+    transform: translateX(2px);
+    z-index: 999;
+    transition-duration: 0.2S;
+}
+
+.four_global_footer_108 #footer .footer_top .list.contact_list {
+    max-width: 290px;
+    width: 23%
+}
+
+.four_global_footer_108 #footer .footer_top .list.contact_list .item {
+    padding-right: 10px;
+    margin: 16px 0;
+    line-height: 18px;
+    font-size: 14px;
+    color: #8C8F94
+}
+
+.four_global_footer_108 #footer .footer_top .list.contact_list .item td {
+    padding-bottom: 10px;
+}
+
+.four_global_footer_108 #footer .footer_top .list.contact_list .item th {
+    vertical-align: top
+}
+
+.four_global_footer_108 #footer .footer_top .list.contact_list .item span {
+    display: inline-block;
+    word-break: break-word;
+    text-align: left;
+    line-height: 20px;
+}
+
+.four_global_footer_108 #footer .footer_down {
+    margin-top: 25px;
+    text-align: center;
+    background: #222328;
+}
+
+.four_global_footer_108 #footer .footer_down .link {
+    padding-top: 30px
+}
+
+.four_global_footer_108 #footer .footer_down .link .item {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 14px;
+}
+
+.four_global_footer_108 #footer .footer_down .link .item a:hover {
+    transform: translate(0, -2px);
+    z-index: 999;
+    transition-duration: 0.2S;
+}
+
+.four_global_footer_108 #footer .footer_down .link .item:first-child a {
+    border-left: 0
+}
+
+.four_global_footer_108 #footer .footer_down .link .item a {
+    display: inline-block;
+    padding: 0 25px 0 25px;
+    font-size: 14px;
+    color: #222328;
+    text-decoration: none;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.four_global_footer_108 #footer .footer_down .link .item span {
+    display: inline-block;
+    color: #8C8F94;
+}
+
+.four_global_footer_108 #copymsg {
+    padding: 20px 0 30px;
+    font-size: 14px;
+    color: #8C8F94
+}
+
+.four_global_footer_108 #copymsg a {
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none
+}
+
+.four_global_footer_108 #footer .friendship-link {
+    margin-top: 40px
+}
+
+.four_global_footer_108 #footer .friendship-link .title {
+    font-size: 15px;
+    color: #8f8f8f;
+    margin-right: 3%;
+    width: 8%
+}
+
+.four_global_footer_108 #footer .friendship-link .list {
+    width: 85%
+}
+
+.four_global_footer_108 #footer .friendship-link .list a {
+    font-size: 16px;
+    color: #8f8f8f;
+    width: 9%;
+    margin-right: 1%
+}
+
+.four_global_footer_108 #footer .friendship-link .list a.pic {
+    background: #fff
+}
+
+.four_global_footer_108 #footer .footer_top .list.sns {
+    width: 20%;
+    margin-left: 3.5%
+}
+
+.four_global_footer_108 #footer .footer_top .list.sns a {
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 20px;
+    background: #fff;
+    float: left;
+    color: #8C8F94;
+    text-align: center
+}
+
+.four_global_footer_108 #footer .footer_top .list.sns a:hover {
+    transform: translate(0, -2px);
+    z-index: 999;
+    transition-duration: 0.2S;
+}
+
+.four_global_footer_108 #footer .footer_top .list.sns .iconfont {
+    font-size: 24px
+}
+
+.four_global_footer_108 #footer .footer_top .list .compant-tt {
+    font-weight: normal;
+    font-size: 14px;
+    color: #8C8F94;
+    line-height: 22px;
+    width: 200px;
+    clear: both;
+}
+
+.four_global_footer_108 #footer .footer_top .list .logo-wrap {
+    float: left;
+    height: 48px;
+    position: relative;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.four_global_footer_108 #footer .footer_top .list .compant-tt p {
+    text-align: left;
+}
+
+.four_global_footer_108 #footer .footer_top .list .logo-wrap a {
+    display: table-row;
+    width: auto;
+    vertical-align: middle;
+    height: 100px;
+    box-sizing: border-box
+}
+
+.four_global_footer_108 #footer .footer_top .list .logo-wrap a:hover {
+    transform: none;
+}
+
+.four_global_footer_108 #footer .footer_top .list .logo-wrap a img {
+    max-height: 63px;
+    max-width: 150px;
+    height: auto;
+    margin: auto !important;
+    position: absolute;
+    left: 0;
+    right: auto;
+    top: 0;
+    bottom: 0;
+    box-sizing: border-box;
+}

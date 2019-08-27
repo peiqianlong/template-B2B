@@ -1,0 +1,283 @@
+.four_global_header_101 {
+    width: 100%;
+    background: #222328;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    z-index: 10001;
+    border-bottom: 1px solid #fff;
+    border-image: linear-gradient(90deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)) 1 1;
+}
+
+.four_global_header_101 .header_ruler {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.four_global_header_101 .header-logo-wrap {
+    float: left;
+    height: 100px;
+    position: relative;
+    width: 200px
+}
+
+.four_global_header_101 .header-logo-wrap a {
+    display: table-row;
+    width: auto;
+    vertical-align: middle;
+    height: 100px;
+    box-sizing: border-box
+}
+
+.four_global_header_101 .header-logo-wrap a img {
+    max-height: 63px;
+    max-width: 150px;
+    height: auto;
+    margin: auto !important;
+    position: absolute;
+    left: 0;
+    right: auto;
+    top: 0;
+    bottom: 0;
+    box-sizing: border-box
+}
+
+.four_global_header_101 .navigation {
+    float: left;
+    width: 600px;
+    height: 100px;
+    line-height: 100px
+}
+
+.four_global_header_101 .navigation ul {
+    list-style: none;
+    justify-content: space-around;
+    display: flex;
+    position: relative;
+    z-index: 202;
+    zoom: 1
+}
+
+.four_global_header_101 .navigation ul li {
+    padding: 0 11px;
+    position: relative;
+    font-size: 14px
+}
+
+.four_global_header_101 .navigation ul li a {
+    color: #fff;
+    text-transform: capitalize
+}
+
+.four_global_header_101 .navigation ul li a:hover {
+    color: #666
+}
+
+.four_global_header_101 .navigation ul li.on a {
+    color: #666;
+}
+
+.four_global_header_101 .func {
+    float: left;
+    width: 50px;
+    z-index: 100;
+    text-align: center;
+}
+
+.four_global_header_101 .func .icon {
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+    font-size: 24px;
+    color: #fff;
+    line-height: 100px
+}
+
+.four_global_header_101 .func .icon:hover {
+    transform: translate(0, -2px);
+    z-index: 999;
+    transition-duration: 0.2S
+}
+
+.four_global_header_101 .right-box {
+    float: right;
+    position: relative
+}
+
+.four_global_header_101 .right-box .req-b {
+    text-transform: uppercase;
+    height: 36px;
+    background: #3B55E6;
+    border-radius: 18px;
+    float: left;
+    text-align: center;
+    line-height: 36px;
+    color: #fff;
+    margin-top: 32px;
+    padding: 0 20px;
+}
+
+.four_global_header_101 .right-box .req-b:hover {
+    text-transform: uppercase;
+    transform: translate(0, -2px);
+    z-index: 999;
+    transition-duration: 0.2S
+}
+
+.four_global_header_101 .right-box .select_language_wrap {
+    position: relative;
+    float: left;
+    margin-top: 32px;
+    padding-bottom: 20px;
+}
+
+.four_global_header_101 .right-box .select_language_wrap a {
+    text-transform: uppercase;
+    padding: 0 15px;
+    height: 36px;
+    border-radius: 18px;
+    border: 2px solid rgba(255, 255, 255, 1);
+    display: block;
+    box-sizing: border-box;
+    margin-left: 14px;
+    color: #fff;
+    line-height: 34px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.four_global_header_101 .right-box .select_language_wrap .select_language a {
+    text-transform: none;
+    padding-left: 0px;
+}
+
+.four_global_header_101 .right-box .select_language_wrap a:hover {
+    transform: translate(0, -2px);
+    z-index: 999;
+    transition-duration: 0.2s
+}
+
+.four_global_header_101 .select_language_wrap:hover .select_language {
+    display: block
+}
+
+.four_global_header_101 .right-box .select_language {
+    background: #FFF;
+    border: 1px solid #ccc;
+    line-height: 20px;
+    margin: 0;
+    overflow-y: scroll;
+    padding: 3px 0;
+    position: absolute;
+    top: 50px;
+    right: -8px;
+    z-index: 10000;
+    max-height: 600px;
+    width: 108px;
+    display: none;
+    border-radius: 8px;
+}
+
+.four_global_header_101 .right-box .select_language a {
+    color: #333;
+    opacity: 1;
+    text-align: left;
+}
+
+.four_global_header_101 .search_box {
+    z-index: 10;
+    display: none;
+}
+
+.four_global_header_101 .search_box.on {
+    visibility: visible;
+    display: block;
+    filter: alpha(opacity=100);
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    height: 100px;
+    z-index: 999;
+    left: 0px;
+    box-shadow: 0px 8px 10px 0px rgba(0, 0, 0, 0.83);
+}
+
+.four_global_header_101 .search_box .search {
+    height: 100px;
+    line-height: 92px;
+    background: #222328;
+    position: relative;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.four_global_header_101 .search_box .search input {
+    background: #222328;
+    border: 0px;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+    border-bottom: 1px #666 solid;
+    width: 637px;
+    font-size: 14px;
+    text-transform: capitalize;
+    margin-left: 20px;
+}
+
+.four_global_header_101 .search_box .search input::-webkit-input-placeholder {
+    color: #fff;
+}
+
+.four_global_header_101 .search_box .search input::-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: #fff;
+}
+
+.four_global_header_101 .search_box .search input::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: #fff;
+}
+
+.four_global_header_101 .search_box .search input::-ms-input-placeholder {
+    color: #fff;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+    color: #fff;
+}
+
+.four_global_header_101 .search_box .search input[name=keyword] {
+    text-align: left;
+    font-size: 14px;
+    color: #909090;
+    outline: 0;
+}
+
+.four_global_header_101 .search_box .search .box {
+    width: 720px;
+    margin: 0 auto;
+}
+
+.four_global_header_101 .search_box.on .closed {
+    position: absolute;
+    right: 55px;
+    color: #fff;
+    top: 42px;
+}
+
+.four_global_header_101 ::-webkit-scrollbar-thumb {
+    border-radius: 7px;
+}
+
+.four_global_header_101 ::-webkit-scrollbar-track {
+    border-radius: 3px;
+}
+
+.four_global_header_101 ::-webkit-scrollbar {
+    height: 100px;
+}
+
+.four_global_header_101 .search_box.on .closed .iconfont {
+    font-size: 20px;
+}
