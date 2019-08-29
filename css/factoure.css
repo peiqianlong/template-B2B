@@ -1,0 +1,348 @@
+.four_company_content_124 {}
+
+.four_company_content_124 {
+    overflow: hidden;
+    padding-bottom: 30px;
+}
+
+.four_company_content_124 .details_wrap {
+    padding: 0px 0 0 40px;
+    clear: both;
+    font-size: 14px;
+    font-family: 'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    overflow: hidden;
+    padding-bottom: 18px;
+    float: left;
+    color: #fff;
+}
+
+.four_company_content_124 .details_wrap .title {
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #fff;
+    padding: 40px 0 15px;
+}
+
+.four_company_content_124 .details_wrap .desc {
+    color: #666;
+    position: relative;
+}
+
+.four_company_content_124 .details_wrap .desc .flexslider {
+    margin-bottom: 20px;
+    position: relative;
+    height: 400px;
+}
+
+.four_company_content_124 .details_wrap .desc .flexslider ul li {
+    display: none;
+    height: 400px;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.four_company_content_124 .article-views .views .col.content .desc .flexslider ul li:nth-child(1) {
+    display: block;
+}
+
+.four_company_content_124 .details_wrap .desc .flexslider .slides li a img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover
+}
+
+.four_company_content_124 .details_wrap .desc .flexslider .slides {
+    text-align: center;
+}
+
+.four_company_content_124 .details_wrap .desc p {
+    line-height: 24px;
+    color: #fff;
+}
+
+.four_company_content_124 .details_wrap .desc img {
+    max-width: 100%;
+}
+
+.four_company_content_124 .details_wrap .infos {
+    text-align: left;
+}
+
+.four_company_content_124 .details_wrap .infos h2 {
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.four_company_content_124 .details_wrap .infos .title:first-child {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.four_company_content_124 .details_wrap .infos p {
+    line-height: 20px;
+    margin: 0px;
+}
+
+.four_company_content_124 .flex-control-nav {
+    width: 870px;
+    position: absolute;
+    bottom: 17px;
+    text-align: center;
+}
+
+.four_company_content_124 .flex-control-nav li {
+    margin: 0 6px;
+    display: inline-block;
+    zoom: 1
+}
+
+.four_company_content_124 .flex-control-paging li a {
+    width: 11px;
+    height: 11px;
+    display: block;
+    background: #fff;
+    opacity: .33;
+    cursor: pointer;
+    text-indent: -9999px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
+}
+
+.four_company_content_124 .flex-control-paging li a:hover {
+    background: #fff;
+    opacity: .8
+}
+
+.four_company_content_124 .flex-control-paging li a.flex-active {
+    background: #fff;
+    cursor: default;
+    opacity: .9
+}
+
+.four_company_content_124 .contant_four {
+    width: 910px;
+    margin: 0 auto;
+    margin-top: 15px;
+    overflow: hidden;
+    padding-left: 40px;
+}
+
+.four_company_content_124 .contant_four .tab_lis_2 {
+    height: 42px;
+    border-bottom: 1px solid #E4E4DF;
+}
+
+.four_company_content_124 .contant_four .tab_lis_2 li {
+    float: left;
+    padding: 2px 20px 2px 0;
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    height: 40px;
+}
+
+.four_company_content_124 .contant_four .tab_lis_2 li a {
+    line-height: 38px;
+    display: block;
+    color: #666;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+.four_company_content_124 .contant_four .tab_lis_2 li.on {
+    color: #fff;
+    border-bottom: 4px #3b55e6 solid;
+    height: 36px;
+}
+
+.four_company_content_124 .contant_four .tab_lis_2 li.on a {
+    color: #fff;
+}
+
+.four_contact_detail_117 {
+    margin-top: 30px;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    background: #fff;
+}
+
+.four_contact_detail_117.border-bottom {
+    border-bottom: 1px solid #999;
+    border-image: linear-gradient(90deg, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0)) 1 1;
+}
+
+.four_contact_detail_117 .title {
+    margin-bottom: 10px;
+    font-size: 42px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    font-weight: 500;
+    color: #4c4c4c;
+    text-transform: capitalize;
+    padding: 50px 0 20px;
+}
+
+.four_contact_detail_117 .content-b {
+    width: 730px;
+    margin: 0 auto;
+}
+
+.four_contact_detail_117 .social-c {
+    width: 310px;
+    float: left;
+    height: 300px;
+}
+
+.four_contact_detail_117 p.mes {
+    color: #8C8F94;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-left: 15px;
+}
+
+.four_contact_detail_117 .cont-box {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.four_contact_detail_117 .social-c p {
+    height: 25px;
+    font-size: 14px;
+    margin: 5px 0;
+    color: #333;
+}
+
+.four_contact_detail_117 .social-c p span {
+    color: #8C8F94;
+    width: 120px;
+    display: inline-block;
+}
+
+.four_contact_detail_117 .right-form {
+    width: 420px;
+    display: inline;
+    float: left;
+}
+
+.four_contact_detail_117 .right-form textarea {
+    color: #777;
+    width: 416px;
+    padding: 15px;
+    height: 150px;
+    font-family: 'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    font-size: 12px;
+    margin-top: 18px;
+    line-height: 20px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    border: 1px #ddd solid;
+}
+
+.four_contact_detail_117 .right-form textarea:focus {
+    border: 1px #555 solid;
+    outline: none;
+}
+
+.four_contact_detail_117 .social-c i {
+    font-size: 28px;
+    margin-right: 25px;
+    margin-top: 9px;
+    display: inline-block;
+}
+
+.four_contact_detail_117 .social-c i:hover {
+    transform: translate(0, -2px);
+    z-index: 999;
+    transition-duration: 0.2S;
+}
+
+.four_contact_detail_117 .social-c i.icon-1 {
+    font-size: 26px;
+    color: #00aff0;
+}
+
+.four_contact_detail_117 .social-c i.icon-2 {
+    font-size: 28px;
+    color: #3baf34;
+    margin-top: 7px;
+}
+
+.four_contact_detail_117 .social-c i.icon-3 {
+    font-size: 26px;
+    color: #f6cb00;
+}
+
+.four_contact_detail_117 .social-c i.icon-4 {
+    font-size: 26px;
+    color: #7ebd00;
+}
+
+.four_contact_detail_117 .social-c i.icon-5 {
+    font-size: 26px;
+    color: #2ec027;
+}
+
+.four_contact_detail_117 .social-c i.icon-6 {
+    font-size: 26px;
+    color: #6711d3;
+}
+
+.four_contact_detail_117 .btn-box {
+    clear: both;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.four_contact_detail_117 .orange-btn {
+    background: #3B55E6;
+    color: #fff;
+    border-radius: 25px;
+    width: auto;
+    padding: 8px 25px;
+    border: 0px;
+    cursor: pointer;
+    font-weight: 500;
+    float: right;
+    margin-top: 30px;
+    text-transform: uppercase;
+    height: 36px;
+}
+
+.four_contact_detail_117 .orange-btn:hover {
+    transform: translate(0, -2px);
+    z-index: 999;
+    transition-duration: 0.2S;
+}
+
+.four_contact_detail_117 .social-c i.icon-youjian {
+    font-size: 29px;
+    margin-top: 5px;
+}
+
+.four_contact_detail_117 textarea::-webkit-input-placeholder {
+    color: #9e9e9e;
+}
+
+.four_contact_detail_117 textarea:-moz-placeholder {
+    color: #9e9e9e;
+}
+
+.four_contact_detail_117 textarea::-moz-placeholder {
+    color: #9e9e9e;
+}
+
+.four_contact_detail_117 textarea::-ms-input-placeholder {
+    color: #9e9e9e;
+}
