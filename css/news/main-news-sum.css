@@ -34,7 +34,15 @@
     padding-bottom: 25px;
     height: 260px;
 }
+.four_news_list_131 .info_list .resv{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.four_news_list_131 .info_list .resv .info{
+    padding-left: 0;
+    padding-right: 25px;
 
+}
 .four_news_list_131 .info_list .item:last-child {
     margin: 0 !important;
 }
