@@ -6,6 +6,157 @@
 
 .four_index_pic_show_102 .four_banner {
     background: #222328;
+    height: 700px;
+    .swiper-container,
+    .imglist {
+        height: 100%;
+        .swiper-slide {
+            position: relative;
+            .tit {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 9999;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                text-align: center;
+                h1 {
+                    font-size: 48px;
+                    font-family: PingFangSC-Regular;
+                    font-weight: 400;
+                    color: #fff;
+                    line-height: 82px;
+                    margin-bottom: 34px;
+                    margin: 0 15px;
+                    margin-bottom: 34px;
+                }
+                p {
+                    display: inline-block;
+                    font-size: 18px;
+                    font-family: PingFangSC-Regular;
+                    font-weight: 400;
+                    color: #fff;
+                    line-height: 28px;
+                    margin-bottom: 160px;
+                    opacity: .8;
+                    margin: 0 15px;
+                }
+                .btn-box {
+                    margin-top: 150px;
+                    display: flex;
+                    justify-content: center;
+                    .blue-btn {
+                        width: 270px;
+                        height: 60px;
+                        border-radius: 30px;
+                        line-height: 60px;
+                        display: inline-block;
+                        text-align: center;
+                    }
+                    .border-btn {
+                        text-transform: uppercase;
+                        width: 200px;
+                        height: 60px;
+                        border-radius: 30px;
+                        line-height: 60px;
+                        display: inline-block;
+                        opacity: 1 !important;
+                    }
+                }
+            }
+        }
+        /* 缩略 */
+        .taubs {
+            position: absolute;
+            /* top     : 0; */
+            width: 135px;
+            height: 328px;
+            z-index: 100;
+            right: 0;
+            /* position: fixed; */
+            top: 225px;
+            overflow: hidden;
+        }
+        .taubs-1 {
+            position: absolute;
+            /* top     : 0; */
+            width: 135px;
+            height: 82px;
+            z-index: 100;
+            right: 0;
+            /* position: fixed; */
+            top: 203px;
+            overflow: hidden;
+        }
+        .taubs-2 {
+            position: absolute;
+            /* top     : 0; */
+            width: 135px;
+            height: 164px;
+            z-index: 100;
+            right: 0;
+            /* position: fixed; */
+            top: 161px;
+            overflow: hidden;
+        }
+        .taubs-3 {
+            position: absolute;
+            /* top     : 0; */
+            width: 135px;
+            height: 252px;
+            z-index: 100;
+            right: 0;
+            /* position: fixed; */
+            top: 121px;
+            overflow: hidden;
+        }
+        .taubs .swiper-slide,
+        .taubs-1 .swiper-slide,
+        .taubs-2 .swiper-slide,
+        .taubs-3 .swiper-slide {
+            width: 121px;
+            margin-left: 14px;
+            border: 1px solid rgba(255, 255, 255, 0.32);
+            box-sizing: border-box;
+        }
+        .taubs .thumb-active,
+        .taubs-1 .thumb-active,
+        .taubs-2 .thumb-active,
+        .taubs-3 .thumb-active {
+            box-sizing: border-box;
+            width: 135px;
+            height: 90px;
+            position: relative;
+            margin-left: 0px;
+            transition: all 300ms ease;
+        }
+        .swiper-button-prev {
+            width: 60px;
+            height: 60px;
+            margin-left: 100px;
+            background: url(../../img//previous@2x.png) no-repeat center;
+            background-size: 100% 100%;
+            border-radius: 50%;
+        }
+        .swiper-button-next {
+            margin-right: 100px;
+            width: 60px;
+            height: 60px;
+            background: url(../../img/next@2x.png) no-repeat center;
+            background-size: 100% 100%;
+            border-radius: 50%;
+        }
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .four_index_pic_show_102 {
+        width: 80%;
+        margin: 0 auto;
+    }
 }
 
 .four_index_pic_show_102 .flexslider {
@@ -15,7 +166,11 @@
 
 .four_index_pic_show_102 .flexslider .slides {
     zoom: 1;
-    height: 668px
+    height: 668px;
+    .swiper-container {
+        width: 100%;
+        height: 100%;
+    }
 }
 
 .four_index_pic_show_102 .four_banner ul li {
@@ -264,12 +419,12 @@
 }
 
 .four_index_image_text_104 section#feed .list-2 {
-    grid-template-columns: 500px 500px;
+    grid-template-columns: 400px 400px;
     justify-content: center;
 }
 
 .four_index_image_text_104 section#feed .list-2 li {
-    width: 500px;
+    width: 400px;
 }
 
 .four_index_image_text_104 section#feed .list-2 li .content .postPhoto {

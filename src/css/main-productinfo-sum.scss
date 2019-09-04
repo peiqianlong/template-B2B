@@ -1,0 +1,699 @@
+.four_product_detailmain_115.contain-w {
+    width: 1000px;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail {
+    margin: 20px 0 10px;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery {
+    position: relative;
+    float: left;
+    width: 435px;
+    margin-right: 0;
+    height: 547px
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .bigimg {
+    width: 435px;
+    text-align: center;
+    height: 435px;
+    background: #383838;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .bigimg .MagicZoom {
+    position: absolute !important;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+    text-align: center;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .bigimg .MagicZoom img {
+    border: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 435px;
+    max-height: 435px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .bigimg .MagicZoomBigImageCont {
+    border: 1px solid #ddd
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .bigimg .MagicZoomHeader {
+    font-size: 8pt !important;
+    line-height: normal !important;
+    color: #fff;
+    background: #666;
+    text-align: center !important
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .bigimg .MagicZoomLoading {
+    border: 1px solid #ddd;
+    background: url(img/loading.gif) no-repeat 2px 50% #fff
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery #zoom-big {
+    position: absolute;
+    top: 0;
+    left: 100%
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery #zoom-big img {
+    max-width: none;
+    max-height: none
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery #small_img {
+    width: 100px;
+    position: absolute;
+    left: 0;
+    top: 0
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery #small_img .pic_box {
+    width: 90px;
+    height: 90px;
+    border: 1px solid #ddd;
+    margin-top: 8px;
+    text-align: center;
+    display: block
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery #small_img .pic_box:first-child {
+    margin-top: 0
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery #small_img .pic_box.on {
+    border: 1px solid #acd571
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .left_small_img {
+    width: 435px;
+    height: 102px;
+    margin-top: 10px;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .left_small_img .pic_box {
+    text-align: center;
+    display: block;
+    width: 102px;
+    height: 102px;
+    line-height: 135px;
+    overflow: hidden;
+    float: left;
+    margin-right: 7px;
+    box-sizing: border-box;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .left_small_img .pic_box:last-child {
+    margin-right: 0px;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .left_small_img .pic_box a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    line-height: 99px;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .left_small_img .pic_box img {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .left_small_img .pic_box.on {
+    border-color: #3c3c3c
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .products_img {
+    display: none
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .gallery .left_small_img .pic_box.on {
+    border: 1px solid #3B55E6
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info {
+    width: 50%;
+    float: left;
+    padding-left: 40px;
+    box-sizing: border-box
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info h1 {
+    font-size: 24px;
+    color: #fff;
+    font-weight: 400;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info .title {
+    font-size: 16px;
+    color: #fff;
+    margin: 0 0 5px 0;
+    height: 30px;
+    font-weight: 400;
+    padding-bottom: 5px;
+    padding-top: 20px;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info .tab1 tr {
+    display: flex
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info .tab1 {
+    line-height: 30px;
+    font-size: 14px
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info .tab1 th {
+    color: #A0A0A0;
+    font-weight: 400;
+    text-align: left;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    height: 30px;
+    overflow: hidden;
+    line-height: 30px;
+    padding-right: 10px;
+    width: 164px
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info .tab1 td {
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    padding-right: 10px;
+    width: 350px;
+    color: #fff;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info .boder {
+    border-bottom: 1px #ddd solid
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info .button {
+    margin: 20px 0
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info .button>a {
+    width: 150px;
+    height: 36px;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info .button>a:hover {
+    transform: translate(0, -2px);
+    z-index: 999;
+    transition-duration: 0.2S;
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info .button>a.a1 {
+    background: #fff;
+    border: 1px #F42267 solid;
+    color: #F42267;
+    box-sizing: border-box
+}
+
+.four_product_detailmain_115 .ueeshop_responsive_products_detail .info .button>a.a1:hover {
+    background: #005aad;
+    border: 1px #005aad solid;
+    color: #fff
+}
+
+.four_product_detailmain_115 div.jqZoomTitle {
+    z-index: 5000;
+    text-align: center;
+    font-size: 11px;
+    font-family: Tahoma;
+    height: 16px;
+    padding-top: 2px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: #FFF;
+    background: #999
+}
+
+.four_product_detailmain_115 .jqZoomPup {
+    overflow: hidden;
+    background-color: #FFF;
+    -moz-opacity: .6;
+    opacity: .6;
+    filter: alpha(opacity=60);
+    z-index: 10;
+    border-color: #c4c4c4;
+    border-style: solid;
+    cursor: crosshair
+}
+
+.four_product_detailmain_115 .jqZoomPup img {
+    border: 0
+}
+
+.four_product_detailmain_115 .preload {
+    -moz-opacity: .8;
+    opacity: .8;
+    filter: alpha(opacity=80);
+    color: #333;
+    font-size: 12px;
+    font-family: Tahoma;
+    text-decoration: none;
+    border: 1px solid #CCC;
+    background-color: #fff;
+    padding: 8px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: 43px 30px;
+    width: 90px;
+    height: 43px;
+    z-index: 10;
+    position: absolute;
+    top: 3px;
+    left: 3px
+}
+
+.four_product_detailmain_116.contain-w {
+    width: 1000px;
+}
+
+.four_product_detailmain_116 .contant_four {
+    width: 1000px;
+    margin-top: 15px;
+    overflow: hidden
+}
+
+.four_product_detailmain_116 .tab_lis_2 {
+    height: 42px;
+    border-bottom: 1px solid #fff;
+}
+
+.four_product_detailmain_116 .contant_four .tab_lis_2 li {
+    float: left;
+    padding: 2px 20px 2px 0;
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    height: 40px;
+}
+
+.four_product_detailmain_116 .contant_four .tab_lis_2 li a {
+    line-height: 38px;
+    display: block;
+    color: #666;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+.four_product_detailmain_116 .contant_four .tab_lis_2 li.on {
+    color: #fff;
+    border-bottom: 4px #3b55e6 solid;
+    height: 36px;
+}
+
+.four_product_detailmain_116 .contant_four .tab_lis_2 li.on a {
+    color: #fff;
+}
+
+.four_product_detailmain_116 .info2 .tab1 {
+    line-height: 22px;
+    font-size: 13px;
+    float: left;
+    width: 1000px;
+    margin-bottom: 25px;
+}
+
+.four_product_detailmain_116 .info2 .title {
+    padding-bottom: 20px;
+    text-transform: capitalize;
+    font-size: 16px;
+    padding-top: 18px;
+    color: #fff;
+}
+
+.four_product_detailmain_116 .info2 .tab1 tr {
+    display: flex
+}
+
+.four_product_detailmain_116 .info2 .tab1 th {
+    color: #A0A0A0;
+    font-weight: 400;
+    text-align: left;
+    width: 120px;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    height: 24px;
+    overflow: hidden;
+    line-height: 24px;
+    padding-right: 10px
+}
+
+.four_product_detailmain_116 .info2 .tab1 td {
+    width: 310px;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    height: 24px;
+    overflow: hidden;
+    line-height: 24px;
+    padding-right: 40px;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.four_product_detailmain_116 .info2 .tab1 tbody tr:first-child td {
+    height: 48px;
+}
+
+.four_product_detailmain_116 .details_wrap {
+    font-size: 14px;
+    font-family: 'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    overflow: hidden;
+    padding-bottom: 18px;
+    float: left;
+    color: #333;
+    clear: both;
+}
+
+.four_product_detailmain_116 .details_wrap p {
+    color: #fff;
+}
+
+.four_product_detailmain_116 .details_wrap p.title {
+    font-size: 16px;
+    text-transform: capitalize;
+    padding-top: 18px;
+    margin-top: 0px;
+}
+
+.four_product_detailmain_116 .details_wrap .key_wrap {
+    line-height: 25px;
+    margin-top: 30px;
+}
+
+.four_product_detailmain_116 .details_wrap .key_wrap strong {
+    display: block;
+    font-size: 14px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: normal;
+}
+
+.four_product_detailmain_116 .details_wrap .key_wrap {
+    display: inline-block;
+    font-weight: 400
+}
+
+.four_product_detailmain_116 .details_wrap .key_wrap h2 {
+    font-size: 14px;
+    font-weight: 400;
+    display: inline-block;
+    text-transform: none;
+    margin: 10px 0;
+}
+
+.four_product_detailmain_116 .details_wrap .key_wrap h2 a {
+    text-transform: none;
+    font-weight: 400;
+    color: #fff;
+    border-radius: 4px;
+    padding: 0 5px;
+    line-height: 18px;
+    display: inline-block;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.four_product_detailmain_116 .details_wrap .key_wrap h2 a:hover {
+    text-decoration: underline;
+}
+
+.four_index_image_text_118 {
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 60px;
+}
+
+.four_index_image_text_118 h2 {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    overflow: hidden;
+    white-space: normal;
+    letter-spacing: .5px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    color: #000;
+    text-shadow: none;
+    text-transform: capitalize;
+    height: 40px;
+    margin: 20px 30px;
+    box-sizing: border-box;
+}
+
+.four_index_image_text_118 .flexslider {
+    background: #222328;
+    position: relative;
+}
+
+.four_index_image_text_118 .title {
+    height: 52px;
+    font-size: 42px;
+    font-family: PingFangSC-Regular;
+    font-weight: 400;
+    color: #fff;
+    line-height: 52px;
+    padding: 90px 0 40px;
+    clear: both;
+}
+
+.four_index_image_text_118 #feed {
+    visibility: visible;
+    transition: opacity .3s;
+    position: relative;
+}
+
+.four_index_image_text_118 #feed ul {
+    grid-auto-flow: row dense;
+    grid-gap: 1.0vw;
+    padding-bottom: 50px;
+    justify-items: center;
+    width: 1200px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    // height: 440px;
+    overflow: hidden;
+}
+
+.four_index_image_text_118 #feed .list-3 {
+    li {
+        text-align: center;
+        .content {
+            width: 30%;
+        }
+    }
+}
+
+.four_index_image_text_118 #feed .list-2 {
+    li {
+        text-align: center;
+        .content {
+            width: 48%;
+            margin-top: 15px;
+        }
+        .postPhoto {
+            height: 350px;
+            img {
+                max-height: 350px;
+                max-width: 350px;
+            }
+        }
+    }
+}
+
+.four_index_image_text_118 #feed .list-1 {
+    li {
+        text-align: center;
+        .content {
+            width: 98%;
+            margin-top: 15px;
+        }
+        .postPhoto {
+            height: 600px;
+            img {
+                max-height: 100%;
+                max-width: 80%;
+                height: 100%;
+            }
+        }
+    }
+}
+
+.four_index_image_text_118 #feed ul li {
+    width: 100%;
+    position: relative;
+    box-sizing: border-box;
+    float: left
+}
+
+.four_index_image_text_118 #feed ul li .content {
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .05);
+    transition: box-shadow .3s ease-out, transform .3s ease-out, opacity .2s ease-out;
+    transition-delay: 0.2S;
+    border-radius: 4px;
+    transform: translateZ(0);
+    background-color: #fff;
+    overflow: hidden;
+    height: 100%;
+    margin-top: 4px;
+    float: left;
+    width: 280px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.four_index_image_text_118 #feed ul li .content:hover {
+    opacity: 1 !important;
+    box-shadow: rgba(45, 45, 45, .05) 0 2px 2px, rgba(49, 49, 49, .05) 0 4px 4px, rgba(42, 42, 42, .05) 0 8px 8px, rgba(32, 32, 32, .05) 0 16px 16px, rgba(49, 49, 49, .05) 0 32px 32px, rgba(35, 35, 35, .05) 0 64px 64px;
+    transform: translate(0, -4px);
+    z-index: 999
+}
+
+.four_index_image_text_118 #feed ul li .postPhoto {
+    height: 280px;
+    line-height: 280px;
+    text-align: center;
+    vertical-align: middle;
+    box-sizing: border-box;
+    display: block;
+}
+
+.four_index_image_text_118 #feed ul li.show .postPhoto img {
+    opacity: 1;
+    transition: opacity .15s ease-in
+}
+
+.four_index_image_text_118 #feed ul li.sponsored .postPhoto .beacon {
+    width: 0;
+    height: 0
+}
+
+.four_index_image_text_118 #feed ul li .postPhoto img {
+    max-height: 280px;
+    max-width: 280px;
+    object-position: center;
+    object-fit: cover;
+    border: 0;
+    vertical-align: middle
+}
+
+.four_index_image_text_118 #feed ul li .postInfo {
+    position: relative;
+    bottom: 0;
+    height: 41px;
+    font-weight: 400
+}
+
+.four_index_image_text_118 #feed ul li .postInfo p {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    overflow: hidden;
+    white-space: normal;
+    letter-spacing: .5px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    color: #000;
+    text-shadow: none;
+    text-transform: capitalize;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+
+.four_index_image_text_118 #feed ul li .red-btn {
+    width: 150px;
+    height: 36px;
+    text-align: center;
+    line-height: 36px;
+    display: block;
+    background: #F42267;
+    border-radius: 18px;
+    color: #fff;
+    margin: 0 auto;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    border: 0;
+    cursor: pointer;
+}
+
+.four_index_image_text_118 .blue-btn {
+    margin: 0 auto;
+    width: 230px;
+    display: inline-block;
+    height: 50px;
+    border-radius: 25px;
+    line-height: 50px
+}
+
+.four_index_image_text_118 .more {
+    text-align: center;
+    width: 100%;
+    display: grid;
+    padding-bottom: 90px
+}
+
+.four_index_image_text_118 #feed .flex-control-nav {
+    width: 100%;
+    position: absolute;
+    bottom: -28px;
+    text-align: center;
+}
+
+.four_index_image_text_118 #feed .flex-control-nav li {
+    margin: 0 6px;
+    display: inline-block;
+    zoom: 1;
+}
+
+.four_index_image_text_118 #feed .flex-control-paging li a {
+    width: 11px;
+    height: 11px;
+    display: block;
+    background: #fff;
+    opacity: .33;
+    cursor: pointer;
+    text-indent: -9999px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+
+.four_index_image_text_118 #feed .flex-control-paging li a.flex-active {
+    background: #fff;
+    cursor: default;
+    opacity: .9;
+}

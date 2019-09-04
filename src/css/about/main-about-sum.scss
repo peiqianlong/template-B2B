@@ -244,3 +244,135 @@
 
 
 /* 122 */
+
+.four_index_gust_text_123 {
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 60px;
+}
+
+.four_index_gust_text_123 .flexslider {
+    background: #222328;
+    position: relative;
+}
+
+.four_index_gust_text_123 .title {
+    height: 58px;
+    font-size: 58px;
+    font-weight: 400;
+    color: #fff;
+    line-height: 52px;
+    padding: 50px 0 10px;
+    clear: both;
+    border-top: 1px solid #fff;
+    border-image: linear-gradient(90deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)) 1 1;
+}
+
+.four_index_gust_text_123 .title .iconfont {
+    font-size: 58px;
+}
+
+.four_index_gust_text_123 #feed2 {
+    visibility: visible;
+    transition: opacity .3s;
+    position: relative;
+}
+
+.four_index_gust_text_123 #feed2 ul {
+    display: grid;
+    padding-bottom: 50px;
+    justify-items: center;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.four_index_gust_text_123 #feed2 ul li {
+    width: 1000px;
+    position: relative;
+    box-sizing: border-box;
+    float: left
+}
+
+.four_index_gust_text_123 ul li .content {}
+
+.four_index_gust_text_123 ul li .postInfo {
+    position: relative;
+    bottom: 0;
+    padding: 30px;
+    font-weight: 400;
+}
+
+.four_index_gust_text_123 ul li .postInfo p {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+    overflow: hidden;
+    white-space: normal;
+    letter-spacing: .5px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    color: #fff;
+    text-shadow: none;
+    text-transform: capitalize;
+    padding: 0 30px;
+    box-sizing: border-box;
+    height: 150px;
+}
+
+.four_index_gust_text_123 ul li .info-name {}
+
+.four_index_gust_text_123 ul li .info-name p {
+    font-size: 16px;
+    color: #999;
+    padding-bottom: 20px;
+}
+
+.four_index_gust_text_123 ul li .info-name img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    object-position: center;
+    object-fit: cover;
+    border: 0;
+    vertical-align: middle;
+}
+
+.four_index_gust_text_123 .more {
+    text-align: center;
+    width: 100%;
+    display: grid;
+    padding-bottom: 90px
+}
+
+.four_index_gust_text_123 .flex-control-nav {
+    width: 100%;
+    position: absolute;
+    bottom: -39px;
+    text-align: center;
+}
+
+.four_index_gust_text_123 .flex-control-nav li {
+    margin: 0 6px;
+    display: inline-block;
+    zoom: 1;
+}
+
+.four_index_gust_text_123 .flex-control-paging li a {
+    width: 11px;
+    height: 11px;
+    display: block;
+    background: #fff;
+    opacity: .33;
+    cursor: pointer;
+    text-indent: -9999px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+
+.four_index_gust_text_123 .flex-control-paging li a.flex-active {
+    background: #fff;
+    cursor: default;
+    opacity: .9;
+}
