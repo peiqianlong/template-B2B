@@ -795,7 +795,6 @@
     font-weight: 400;
     color: #fff;
     line-height: 22px;
-    margin-bottom: 24px;
     width: 570px;
     height: 84px;
     text-overflow: ellipsis;
@@ -805,6 +804,10 @@
     height: 66px;
     border: 0;
     overflow: hidden
+}
+
+.four_index_about_text_106 .content-box :first-child {
+    margin-bottom: 24px;
 }
 
 .four_index_about_text_106 .pic {
