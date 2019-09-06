@@ -1,0 +1,232 @@
+.four_case_list_133 {
+    padding: 10px 0 0 40px
+}
+
+.four_case_list_133 img {
+    max-width: 100%;
+    max-height: 100%;
+    border: none;
+    border-radius: 8px;
+    -o-object-position: center;
+    object-position: center;
+    -o-object-fit: cover;
+    object-fit: cover;
+    border: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover
+}
+
+.four_case_list_133 .title {
+    text-align: center;
+    margin-bottom: 0
+}
+
+.four_case_list_133 .title h1 {
+    font-weight: 400
+}
+
+.four_case_list_133 .info_list {
+    margin: 0;
+    overflow: hidden
+}
+
+.four_case_list_133 .info_list .item {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    height: 260px
+}
+
+.four_case_list_133 .info_list .item:last-child {
+    margin: 0 !important
+}
+
+.four_case_list_133 .info_list .item .img {
+    width: 370px;
+    height: 250px;
+    float: left;
+    text-align: center;
+    line-height: 250px
+}
+
+.four_case_list_133 .info_list .item .info {
+    width: 490px;
+    float: right;
+    padding-left: 25px;
+    box-sizing: border-box
+}
+
+.four_case_list_133 .info_list .item .info .title {
+    max-height: 57px;
+    overflow: hidden;
+    line-height: 30px;
+    padding-bottom: 5px;
+    text-align: left;
+    margin-top: 0
+}
+
+.four_case_list_133 .info_list .item .info .title a {
+    font-size: 22px;
+    color: #fff;
+    font-weight: 400;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    height: 30px;
+    border: 0;
+    overflow: hidden
+}
+
+.four_case_list_133 .info_list .item .info .title a:hover {
+    text-decoration: underline
+}
+
+.four_case_list_133 .info_list .item .info .time {
+    font-size: 14px;
+    color: #999;
+    line-height: 20px;
+    margin-bottom: 30px
+}
+
+.four_case_list_133 .info_list .item .info .time h1 {
+    font-size: 14px;
+    font-weight: 400
+}
+
+.four_case_list_133 .info_list .item .info .time h2 {
+    display: none
+}
+
+.four_case_list_133 .info_list .item .info .desc {
+    font-size: 14px;
+    color: #999;
+    line-height: 25px;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    height: 125px;
+    border: 0;
+    overflow: hidden
+}
+
+.four_case_list_133 .info_list .item .info .desc:hover {
+    text-decoration: none
+}
+
+.four_case_list_133 .info_list .item .link {
+    display: none
+}
+
+.four_case_list_133 .info_list .item.no_img .img {
+    display: none
+}
+
+.four_case_list_133 .info_list .item.no_img .info {
+    width: 490px;
+    float: none;
+    padding: 0
+}
+
+.four_case_list_133 .info_list.s1 .item {
+    position: relative;
+    min-height: 50px
+}
+
+.four_case_list_133 .info_list.s1 .item .img {
+    display: none
+}
+
+.four_case_list_133 .info_list.s1 .item .info {
+    width: 490px;
+    padding: 0 150px
+}
+
+.four_case_list_133 .info_list.s1 .item .info .time {
+    position: absolute;
+    left: 0;
+    top: 0
+}
+
+.four_case_list_133 .info_list.s1 .item .info .time h1 {
+    display: none
+}
+
+.four_case_list_133 .info_list.s1 .item .info .time h2 {
+    display: block;
+    font-size: 24px;
+    font-weight: 700
+}
+
+.four_case_list_133 .info_list.s1 .item .info .time h2 span {
+    display: block;
+    font-size: 16px;
+    color: #a4a4ac;
+    padding-top: 8px
+}
+
+.four_case_list_133 .info_list.s1 .item .info .title a {
+    color: #333
+}
+
+.four_case_list_133 .info_list.s1 .item .link {
+    display: block;
+    width: 20px;
+    height: 70%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: url(../images/ico/icon_link.png) no-repeat center
+}
+
+.four_global_pages_114 .cmsmasters_wrap_pagination {
+    margin: 0;
+    padding: 0 0 30px;
+    text-align: center;
+    overflow: hidden
+}
+
+.four_global_pages_114 .cmsmasters_wrap_pagination ul {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    text-align: center
+}
+
+.four_global_pages_114 .cmsmasters_wrap_pagination ul li {
+    display: block;
+    padding: 0 0 4px 4px;
+    float: left
+}
+
+.four_global_pages_114 .cmsmasters_wrap_pagination ul li .page-numbers .right-icon {
+    font-size: 12px
+}
+
+.four_global_pages_114 .cmsmasters_wrap_pagination ul li .page-numbers .icon-xiangzuo1 {
+    font-size: 12px
+}
+
+.four_global_pages_114 .cmsmasters_wrap_pagination ul li .page-numbers.current {
+    color: #fff
+}
+
+.four_global_pages_114 .cmsmasters_wrap_pagination ul li .page-numbers:hover {
+    color: #fff
+}
+
+.four_global_pages_114 .cmsmasters_wrap_pagination ul li .page-numbers.curren:hover {
+    color: #fff !important
+}
+
+.four_global_pages_114 .cmsmasters_wrap_pagination ul li .page-numbers {
+    line-height: 32px;
+    height: 32px;
+    min-width: 32px;
+    position: relative;
+    display: block;
+    font-size: 14px;
+    color: #515151;
+    font-weight: 400
+}

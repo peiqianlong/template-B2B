@@ -1,0 +1,359 @@
+.four_company_content_121 {
+    overflow: hidden;
+    color: #fff
+}
+
+.four_company_content_121 .col.content {
+    padding: 20px 0 0 40px;
+    clear: both;
+    overflow: hidden
+}
+
+.four_company_content_121 .col.content h1 {
+    font-size: 28px;
+    font-weight: 400
+}
+
+.four_company_content_121 .col.content .desc {
+    color: #666
+}
+
+.four_company_content_121 .col.content .desc p {
+    line-height: 24px
+}
+
+.four_company_content_121 .col.content .desc img {
+    max-width: 100%
+}
+
+.four_company_content_121 .col.content .infos {
+    text-align: center;
+    margin-bottom: 30px
+}
+
+.four_company_content_121 .col.content .infos h2 {
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: 20px
+}
+
+.four_company_content_121 .col.content .infos h2.title {
+    margin-top: 10px;
+    color: #999;
+    font-size: 14px
+}
+
+.four_company_content_121 .col.content .infos p {
+    line-height: 20px;
+    margin: 0
+}
+
+.four_company_content_121 .col.content .desc .flexslider {
+    margin-bottom: 20px;
+    position: relative;
+    height: 390px
+}
+
+.four_company_content_121 .col.content .desc .flexslider ul li {
+    height: 390px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    overflow: hidden;
+    display: none
+}
+
+.four_company_content_121 .col.content .desc .flexslider .slides {
+    text-align: center
+}
+
+.four_company_content_121 .col.content .desc .flexslider .slides li a img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+
+.four_company_content_121 .col.content .desc .flex-control-nav {
+    width: 870px;
+    position: absolute;
+    bottom: 17px;
+    text-align: center
+}
+
+.four_company_content_121 .col.content .desc .flex-control-paging li a {
+    background: rgba(255, 255, 255, .5) !important;
+    -o-box-shadow: none !important;
+    box-shadow: none !important
+}
+
+.four_company_content_121 .col.content .desc .flex-control-paging li a.flex-active,
+.four_company_content_121 .col.content .desc .flex-control-paging li a:hover {
+    background: #fff !important
+}
+
+.four_company_content_121 .bule-text {
+    color: #3b55e6;
+    display: block
+}
+
+.four_company_content_121 .bule-text:hover {
+    transform: translateX(2px);
+    z-index: 999;
+    transition-duration: .2S
+}
+
+.four_company_content_121 .flex-control-nav li {
+    margin: 0 6px;
+    display: inline-block;
+    zoom: 1
+}
+
+.four_company_content_121 .flex-control-paging li a {
+    width: 11px;
+    height: 11px;
+    display: block;
+    background: #fff;
+    opacity: .33;
+    cursor: pointer;
+    text-indent: -9999px;
+    border-radius: 20px
+}
+
+.four_company_content_121 .flex-control-paging li a:hover {
+    background: #fff;
+    opacity: .8
+}
+
+.four_company_content_121 .flex-control-paging li a.flex-active {
+    background: #fff;
+    cursor: default;
+    opacity: .9
+}
+
+.four_company_content_121 .article-views .views .col.content .desc table.cc th {
+    font-weight: 400;
+    text-align: left;
+    color: #666;
+    width: 15%;
+    padding: 4px 0
+}
+
+.four_company_content_121 .article-views .views .col.content .desc table.cc td {
+    padding: 4px 0;
+    line-height: 25px;
+    color: #fff
+}
+
+.four_product_detailmain_122 {
+    overflow: hidden;
+    padding-bottom: 30px
+}
+
+.four_product_detailmain_122 .details_wrap {
+    padding: 0 0 0 40px;
+    clear: both;
+    font-size: 14px;
+    font-family: 'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    overflow: hidden;
+    padding-bottom: 18px;
+    float: left;
+    color: #fff
+}
+
+.four_product_detailmain_122 .details_wrap .title {
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #fff;
+    padding: 40px 0 15px
+}
+
+.four_product_detailmain_122 .details_wrap .desc {
+    color: #666;
+    position: relative;
+    color: #fff
+}
+
+.four_product_detailmain_122 .contant_four {
+    width: 910px;
+    margin: 0 auto;
+    margin-top: 15px;
+    overflow: hidden;
+    padding-left: 40px
+}
+
+.four_product_detailmain_122 .contant_four .tab_lis_2 {
+    height: 42px;
+    border-bottom: 1px solid #e4e4df
+}
+
+.four_product_detailmain_122 .contant_four .tab_lis_2 li {
+    float: left;
+    padding: 2px 20px 2px 0;
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    height: 40px
+}
+
+.four_product_detailmain_122 .contant_four .tab_lis_2 li a {
+    line-height: 38px;
+    display: block;
+    color: #666;
+    font-size: 16px;
+    text-transform: capitalize
+}
+
+.four_product_detailmain_122 .contant_four .tab_lis_2 li.on {
+    color: #fff;
+    border-bottom: 4px #3b55e6 solid;
+    height: 36px
+}
+
+.four_product_detailmain_122 .contant_four .tab_lis_2 li.on a {
+    color: #fff
+}
+
+.four_product_detailmain_122 .details_wrap .desc p {
+    color: #fff
+}
+
+.four_product_detailmain_122 .details_wrap .desc p span {
+    color: #fff;
+    background: #222328
+}
+
+.three_company_general_122 .in_row_column .one_three ul li font {
+    color: #999 !important
+}
+
+.four_index_gust_text_123 {
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 60px
+}
+
+.four_index_gust_text_123 .flexslider {
+    background: #222328;
+    position: relative
+}
+
+.four_index_gust_text_123 .title {
+    height: 58px;
+    font-size: 58px;
+    font-weight: 400;
+    color: #fff;
+    line-height: 52px;
+    padding: 50px 0 10px;
+    clear: both;
+    border-top: 1px solid #fff;
+    -o-border-image: linear-gradient(90deg, rgba(255, 255, 255, 0), #fff, rgba(255, 255, 255, 0)) 1 1;
+    border-image: linear-gradient(90deg, rgba(255, 255, 255, 0), #fff, rgba(255, 255, 255, 0)) 1 1
+}
+
+.four_index_gust_text_123 .title .iconfont {
+    font-size: 58px
+}
+
+.four_index_gust_text_123 #feed2 {
+    visibility: visible;
+    transition: opacity .3s;
+    position: relative
+}
+
+.four_index_gust_text_123 #feed2 ul {
+    display: grid;
+    padding-bottom: 50px;
+    justify-items: center;
+    width: 1200px;
+    margin: 0 auto
+}
+
+.four_index_gust_text_123 #feed2 ul li {
+    width: 1000px;
+    position: relative;
+    box-sizing: border-box;
+    float: left
+}
+
+.four_index_gust_text_123 ul li .postInfo {
+    position: relative;
+    bottom: 0;
+    padding: 30px;
+    font-weight: 400
+}
+
+.four_index_gust_text_123 ul li .postInfo p {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+    overflow: hidden;
+    white-space: normal;
+    letter-spacing: .5px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    color: #fff;
+    text-shadow: none;
+    text-transform: capitalize;
+    padding: 0 30px;
+    box-sizing: border-box;
+    height: 150px
+}
+
+.four_index_gust_text_123 ul li .info-name p {
+    font-size: 16px;
+    color: #999;
+    padding-bottom: 20px
+}
+
+.four_index_gust_text_123 ul li .info-name img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    -o-object-position: center;
+    object-position: center;
+    -o-object-fit: cover;
+    object-fit: cover;
+    border: 0;
+    vertical-align: middle
+}
+
+.four_index_gust_text_123 .more {
+    text-align: center;
+    width: 100%;
+    display: grid;
+    padding-bottom: 90px
+}
+
+.four_index_gust_text_123 .flex-control-nav {
+    width: 100%;
+    position: absolute;
+    bottom: -39px;
+    text-align: center
+}
+
+.four_index_gust_text_123 .flex-control-nav li {
+    margin: 0 6px;
+    display: inline-block;
+    zoom: 1
+}
+
+.four_index_gust_text_123 .flex-control-paging li a {
+    width: 11px;
+    height: 11px;
+    display: block;
+    background: #fff;
+    opacity: .33;
+    cursor: pointer;
+    text-indent: -9999px;
+    border-radius: 20px
+}
+
+.four_index_gust_text_123 .flex-control-paging li a.flex-active {
+    background: #fff;
+    cursor: default;
+    opacity: .9
+}
